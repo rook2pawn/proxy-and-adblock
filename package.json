@@ -1,0 +1,22 @@
+{
+  "name": "proxy-and-adblock",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rook2pawn/proxy-and-adblock.git"
+  },
+  "author": "David Wee <rook2pawn@gmail.com> (http://rook2pawn.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rook2pawn/proxy-and-adblock/issues"
+  },
+  "homepage": "https://github.com/rook2pawn/proxy-and-adblock#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "router-middleware": "^2.2.2"
+  }
+}
